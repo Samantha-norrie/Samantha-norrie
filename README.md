@@ -4,4 +4,6 @@ I'm a research assistant and software developer currently working at the interse
 
 My full CV can be found [here](https://samantha-norrie.github.io/).📜
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id={1076107530})
+https://duolingo-stats-card.vercel.app/api?username=SamanthaWholeSam
+
+<img src="https://duolingo-stats-card.vercel.app/api?username=SamanthaWholeSam" alt="Duolingo Stats"/>
