@@ -15,3 +15,7 @@ My full CV can be found [here](https://samantha-norrie.github.io/).📜
 <a href="">
 <img src="https://img.shields.io/badge/Strava-FC4C02.svg?style=for-the-badge&logo=Strava&logoColor=white"/>
 </a>
+<a href="
+https://members.onepeloton.com/members/acnlsamanth">
+<img src="https://img.shields.io/badge/Peloton-181A1D.svg?style=for-the-badge&logo=Peloton&logoColor=white"/>
+</a>
