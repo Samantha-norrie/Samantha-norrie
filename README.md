@@ -18,4 +18,6 @@ My full CV can be found [here](https://samantha-norrie.github.io/).📜
 <a href="https://members.onepeloton.com/members/acnlsamanth">
 <img src="https://img.shields.io/badge/Peloton-181A1D.svg?style=for-the-badge&logo=Peloton&logoColor=white"/>
 </a>
-[![LeetCode user Samanthasn](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/Samanthasn/)
+<a href="https://leetcode.com/u/Samanthasn/">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
