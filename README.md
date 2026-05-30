@@ -1,5 +1,9 @@
 ## Hi there, my name is Samantha!
 
+I'm a software developer who makes software for research and education. I'm currently working as a software developer at University Systems (UVic) on the Research Administration Information System (RAIS) team. In the past, I have built and contributed to teams making software for teaching quantum computing while also working jobs that gave me experience in other software industries.
+
+Outside of software development, I enjoy weightlifting, sports, reading, and learning languages!
+
 My full CV can be found [here](https://samantha-norrie.github.io/).📜
 
 
