@@ -11,6 +11,7 @@ My full CV can be found [here](https://samantha-norrie.github.io/).📜
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samantha-norrie/duolingo-cefr-badge/main/duolingo-dark.svg">
   <img alt="Duolingo levels" src="https://raw.githubusercontent.com/Samantha-norrie/duolingo-cefr-badge/main/duolingo.svg">
 </picture>
+<br>
 <a href="https://www.goodreads.com/user/show/44466349-samantha">
 <img src="https://img.shields.io/badge/Goodreads-372213.svg?style=for-the-badge&logo=Goodreads&logoColor=white"/>
 </a>
